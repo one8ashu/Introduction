@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @one8ashu
+- 👋 Hi, I’m Shreyansh Srivastava.
 - 👀 I’m interested in PROGRAMMING, BIBLIOPHILE.
 - 🌱 I’m currently learning CP, WEB-DEV, OPEN SOURCE,..., etc.
 - 💞️ I’m looking to collaborate on ...
