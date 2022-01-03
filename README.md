@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @one8ashu
 - 👀 I’m interested in PROGRAMMING.
-- 🌱 I’m currently learning COMPETITIVE PROGRAMMING, WEB-DEV,..., etc.
+- 🌱 I’m currently learning CP, WEB-DEV, OPEN SOURCE,..., etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me one8.shreyansh@gmail.com
 
